@@ -1,0 +1,6 @@
+{
+  "name": "CLIMB TO THE FLAG",
+  "description": "Hardcore 3D Vertical Parkour game. Climb giant vertical towers, execute wall runs, ledge grabs, slides, and precision leaps to reach the flag at the summit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
